@@ -5,32 +5,20 @@ Included below are step-by-step instructions for 5 demos
 **Demonstrate provisioning Linux VMs using Portal -> Marketplace**
 
 *Explain we are going to look at the options available to provision new Linux VMs*
-<table>
-  <tr>
-    <td width="400" valign="top">
-        1. Go to [Azure Portal] (http://portal.azure.com)
-        </br>
-        2. Click '+' 
-    </td>
-    <td width="600">
-      <img src="media/image001.png" height="300" align="center"/>
-    </td>
-  </tr>
-</table>
-      
+  1. Go to [Azure Portal] (http://portal.azure.com)
+  2. Click '+' 
 
+  ![Portal New Resource](media/image001.png)
+  
 *Explain availabilily of images from partners with pre-installed software/products*
-<table>
-  <tr>
-    <td width="400" valign="top">
-        3. Click 'Compute' 
-        </br>
-        4. Search for 'LAMP' stack (Linux, Apache, MySQL, PHP) 
-    </td>
-    <td width="600">
-      <img src="media/image003.png" height="200" width="600" align="center"/>
-    </td>
-  </tr>
-</table>
+  3. Click 'Compute' 
+  4. Search for 'LAMP' stack (Linux, Apache, MySQL, PHP) 
+
+  ![Portal Search LAMP](media/image003.png)
+  
+  5. Select the LAMP image from Bitnami 
+
+  ![Portal Select VM](media/image005.png)
+
 
 
