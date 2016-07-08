@@ -44,12 +44,30 @@ Included below are step-by-step instructions for 5 demos
   **Demonstrate provisioning Linux VMs made available from the 'community' at VM Depot**
   
   1. In the ‘Compute’ details pane, scroll down to the ‘VM Depot – Community Images’ section. *(Explain we are going to look at the options available from community)*
+   
+  ![VM Depot Section](media/image017.png)
+
   2. Go to https://vmdepot.msopentech.com
+  
+  ![VM Depot Site](media/image019.png)
+  
   3. Search for 'MEAN' *(Explain how it brings forth the MEAN stack based community images to pick from. Explain about the options available to provision the VM from within the VM Depot. We’ll go deeper with the ‘Deployment Script’ )*
+  
+  ![VM Depot Search](media/image021.png)
+  
   4. Click 'Deployment Script'
+  
   5. Click 'I Agree' in the popup
+  
+  ![VM Depot Deployment Script](media/image023.png)
+  
   6. Pick the 'Region' from the 'Select Region' drop down
+  
+  ![VM Depot Pick Region](media/image025.png)
+  
   7. Script to provision VM is displayed *(Explain that we can use 'Azure CLI' to execute the script)*
+  
+  ![VM Depot Section](media/image027.png)
 
 
 ##Azure CLI Demo
@@ -58,25 +76,65 @@ Included below are step-by-step instructions for 5 demos
   20.	Go to http://portal.azure.com 
   21.	Provision a VM with pre-installed Docker e.g. ‘Docker on Ubuntu Server (preview)’ from Canonical+Microsoft *(These steps are about provisioning a VM with Docker to demonstrate Azure CLI. Explain that Azure CLI has dependencies e.g. NodeJS. One easy way to experiment and use Azure CLI is via Docker Containers using the Container image from Microsoft)*
   	
-  ![Docker Provisioning](media/image029.jpg)
+  ![Docker Provisioning](media/image029.png)
 
   22.	Go to https://hub.docker.com
   23.	Search for 'microsoft' *(Explain the availability of Docker image for azure-cli from Microsoft)*
+  
+  ![DockerHub Search](media/image031.png)	
+  
   24.	SSH into the VM provisioned above
   25.	Run command ‘docker search azure-cli’ to show that the ‘azure-cli’ image is also available from the command line.
+  	
+  ![Docker Search Command](media/image033.png)
+
   26.	Execute command ‘docker run -it microsoft/azure-cli’ *(if the container image is not available locally it may get pulled from docker hub before its run)*
+  
+  ![Docker Run Command](media/image035.png)
+
   27.	Execute command ‘azure’ to show the default output of azure cli tool
+  	
+  ![Azure CLI](media/image037.png)
+
   28.	Execute command ‘azure login’ *(The output will provide a ‘code’ that needs to be entered at https://aka.ms/devicelogin. Post which, you will be asked to login to the azure portal)*
+  	
+  ![Azure Login](media/image039.png)
+
   29.	Enter the code at https://aka.ms/devicelogin
+  
+  ![Device Login](media/image041.png)
+
   30.	Click 'continue'
+
+  ![Device Login](media/image043.png)
+
   31.	Sign-in to the Azure portal
+
+  ![Device Login](media/image045.png)
+
   32.	Revert to the SSH session. It should show a successful login
+
+  ![SSH Session](media/image047.png)
+
   33.	Use the *azure -help* command to show the available commands
+
+  ![Azure Help](media/image049.png)
+
   34.	Showcase some of the commands available with azure cli e.g. *azure account list*, which lists the accounts
+  
+  ![Azure account list](media/image051.png)
+
   35.	*azure vm list* shows all the vm's available within the current account
+  
+  ![azure vm list](media/image053.png)
+
   36.	Paste the script from step #19 *(Explain that this is where we can execute the script however it will not work in its current state as properties like User_Name etc. needs to be updated. At this point we can stop the demo)
+  
+  ![Azure VM Script](media/image055.png)
+
   37.	*exit* from the *docker* container
   
+  ![Docker Exit](media/image057.png)
 
 ##ARM Templates Demo
 **Demonstrate provisioning Linux VMs using ARM templates**
