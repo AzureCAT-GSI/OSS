@@ -141,12 +141,30 @@ Included below are step-by-step instructions for 5 demos
 
   38. Go to http://www.azure.com  
   39.	Click Resources -> Templates in the main menu bar 
+  
+  ![Quick Start Templates](media/image059.png)
+
   40.	Search for ‘Django’
   41.	Select the ‘Deploy a Django App’
+  
+  ![Django Template](media/image061.png)
+
   42.	Click *Deploy to Azure* - *(This will open Azure portal with 'template' pre-loaded and 'parameters' blade open)*
-  43.	Click on *Edit Template* - *
+  	
+  ![Deploy To Azure](media/image063.png)
+
+  43.	Click on *Edit Template*
+  
+  ![Edit Template](media/image065.png)
+
   44.	It'll load the ARM template
+  
+  ![ARM Template](media/image067.png)
+
   45.	Scroll to the bottom to show how VM extensions are used (in this example *CustomScript extension) to extend the VM functionality once the VM has been provisioned. Highlight the ‘install_django.sh’ script that installs and configures ‘django’ framework.
+
+  ![Customscript Extension](media/image069.png)
+
 
    ##VM Scale Seets Demo
    **Demonstrate provisioning VMs using Scale Sets templates**
