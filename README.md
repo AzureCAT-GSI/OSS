@@ -10,10 +10,10 @@ Download the [PowerPoint](https://github.com/GSIAzureCOE/OSS/blob/InProgress/Ope
 
 ##Session Objectives
 * Understand how Azure approaches Open-Source innovaion in the cloud
-* Get familiar with major Open-Source products/technologies supported on Azure - Linux, Java, Cloud-Foundry etc.
-* Sneak peak into related sessions covering Open-Source during the workshop
+* Get familiar with major Open-Source products/technologies supported on Azure including Linux, Java, Cloud-Foundry
+* Sneak peak into related sessions, covering Open-Source, during the workshop
   
- ##Session Pre-requisites
+##Session Pre-requisites
 * An Azure Subscription
 
 ##Products and Technologies covered 
