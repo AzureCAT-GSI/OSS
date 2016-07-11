@@ -1,17 +1,25 @@
 # Open Source Software on Azure
-Microsoft Azure is an open and flexible platform that enables you to run the platform and code that your solution requires.  One in 5 virtual machines on the Microsoft Azure platform use Linux, and Microsoft has openly embraced the open source community by contributing key assets such as the .NET framework and its libraries to the open source community.  Microsoft is a key contributor to open source initiatives and enables the platform that your solution needs regardless if it uses Windows or not. 
+Microsoft Azure is an open and flexible platform that supports leading open-source products and technologies. It puts the best of both Windows and Linux ecosystems at your fingertips, so you can build great applications and services. Today, nearly one in three Azure virtual machines are Linux and the Azure Marketplace has more than 1,000 Linux images. Azure also provides first-class support for Java, Node.js, Python, Ruby, and PHP. We support the Hadoop ecosystem and offer Azure HDInsight, a 100% Apache Hadoop-based cloud service that can deploy to Windows and Linux. And with an open, RESTful API for every component, we are lighting up new scenarios, like Internet of Things (IoT) integration or Docker containers.
 
 ##Presentation
-Download the [PowerPoint](https://github.com/GSIAzureCOE/OSS/blob/master/todo.pptx).
-The PowerPoint includes full speaker notes helping you understand the slides, and everything you need to deliver the session.
-
-Watch the [video](https://gsiazurecoecontent.blob.core.windows.net/oss/todo.mp4).
+Download the [PowerPoint](https://github.com/GSIAzureCOE/OSS/blob/InProgress/Open%20Source%20on%20Microsoft%20Azure.pptx). The PowerPoint includes full speaker notes helping you understand the slides, and everything you need to deliver the session.
 
 ## Demos
-1. Demo 1
-[[source code](https://github.com/GSIAzureCOE/OSS/blob/master/todo)]
-[[demo script](https://github.com/GSIAzureCOE/OSS/blob/master/todo.docx)]
-[[video](https://gsiazurecoecontent.blob.core.windows.net/oss/todo.mp4)]
+1. Demo1 - Linux on Microsoft Azure [Demo Script] (https://github.com/GSIAzureCOE/OSS/tree/InProgress/Demo1%20-%20Linux%20on%20Microsoft%20Azure)
+2. Demo2 - Java on Microsoft Azure [Demo Script] (https://github.com/GSIAzureCOE/OSS/tree/InProgress/Demo2%20-%20Java%20on%20Microsoft%20Azure)
+
+##Session Objectives
+* Understand how Azure approaches Open-Source innovaion in the cloud
+* Get familiar with major Open-Source products/technologies supported on Azure - Linux, Java, Cloud-Foundry etc.
+* Sneak peak into related sessions covering Open-Source during the workshop
+  
+ ##Session Pre-requisites
+* An Azure Subscription
+
+##Products and Technologies covered 
+* [Linux Virtual Machines on Microsoft Azure] (https://azure.microsoft.com/en-us/documentation/services/virtual-machines/linux/)
+* [Java on Microsoft Azure] (https://azure.microsoft.com/en-us/develop/java/)
+* [Cloud Foundry on Microsoft Azure] (https://azure.microsoft.com/en-us/blog/general-availability-of-cloud-foundry-and-preview-access-of-pivotal-cloud-foundry/)
 
 ## Code of Conduct
 
