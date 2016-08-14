@@ -19,7 +19,6 @@ Download the [PowerPoint](https://github.com/GSIAzureCOE/OSS/blob/InProgress/Ope
 ##Products and Technologies covered 
 * [Linux Virtual Machines on Microsoft Azure] (https://azure.microsoft.com/en-us/documentation/services/virtual-machines/linux/)
 * [Java on Microsoft Azure] (https://azure.microsoft.com/en-us/develop/java/)
-* [Cloud Foundry on Microsoft Azure] (https://azure.microsoft.com/en-us/blog/general-availability-of-cloud-foundry-and-preview-access-of-pivotal-cloud-foundry/)
 
 ## Code of Conduct
 
