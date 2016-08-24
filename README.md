@@ -5,8 +5,8 @@ Microsoft Azure is an open and flexible platform that supports leading open-sour
 Download the [PowerPoint](Open%20Source%20on%20Microsoft%20Azure.pptx). The PowerPoint includes full speaker notes helping you understand the slides, and everything you need to deliver the session.
 
 ## Demos
-1. Demo1 - Linux on Microsoft Azure [Demo Script] (Demo1%20-%20Linux%20on%20Microsoft%20Azure) [Marketplace demo video](http://azurecatgsicontent.blob.core.windows.net/oss/1_Linux-Demos_1-1_Marketplace.mp4) [VM Depot demo video](http://azurecatgsicontent.blob.core.windows.net/oss/1_Linux-Demos_1-2_VM-Depot.mp4) [CLI demo video](http://azurecatgsicontent.blob.core.windows.net/oss/1_Linux-Demos_1-3_Azure-CLI.mp4)
-2. Demo2 - Java on Microsoft Azure [Demo Script] (Demo2%20-%20Java%20on%20Microsoft%20Azure) [Demo video](http://azurecatgsicontent.blob.core.windows.net/oss/2_Java-Demo_WebApp.mp4)
+1. Demo1 - Linux on Microsoft Azure [[Demo Script] (Demo1%20-%20Linux%20on%20Microsoft%20Azure)] [[Marketplace demo video](http://azurecatgsicontent.blob.core.windows.net/oss/1_Linux-Demos_1-1_Marketplace.mp4)] [[VM Depot demo video](http://azurecatgsicontent.blob.core.windows.net/oss/1_Linux-Demos_1-2_VM-Depot.mp4)] [[CLI demo video](http://azurecatgsicontent.blob.core.windows.net/oss/1_Linux-Demos_1-3_Azure-CLI.mp4)]
+2. Demo2 - Java on Microsoft Azure [[Demo Script] (Demo2%20-%20Java%20on%20Microsoft%20Azure)] [[Demo video](http://azurecatgsicontent.blob.core.windows.net/oss/2_Java-Demo_WebApp.mp4)]
 
 ##Session Objectives
 * Understand how Microsoft Azure approaches Open-Source innovaion in the cloud
