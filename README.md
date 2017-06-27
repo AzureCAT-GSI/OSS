@@ -1,3 +1,7 @@
+> **Update:** Hello! As of 1 January 2017 this content is no longer being actively managed and updated. It is provided as-is and may contain information that has changed. Any Issues will be addressed on a best-effort basis. Please see [Azure.com](http://www.azure.com) for the latest guidance. Thank you for your understanding.
+
+---
+
 # Open Source Software on Azure
 Microsoft Azure is an open and flexible platform that supports leading open-source products and technologies. It puts the best of both Windows and Linux ecosystems at your fingertips, so you can build great applications and services. Today, nearly one in three Azure virtual machines are Linux and the Azure Marketplace has more than 1,000 Linux images. Azure also provides first-class support for Java, Node.js, Python, Ruby, and PHP. We support the Hadoop ecosystem and offer Azure HDInsight, a 100% Apache Hadoop-based cloud service that can deploy to Windows and Linux. And with an open, RESTful API for every component, we are lighting up new scenarios, like Internet of Things (IoT) integration or Docker containers.
 
